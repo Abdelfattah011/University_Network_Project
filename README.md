@@ -8,7 +8,7 @@
 
 <!-- Project Topology Image -->
 <p align="center">
-  <img src="University_Network" alt="University Network Topology" width="100%">
+  <img src="University_Network.png" alt="University Network Topology" width="100%">
 </p>
 
 ## 📌 Project Overview
