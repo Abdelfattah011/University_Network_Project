@@ -8,7 +8,7 @@
 
 <!-- Project Topology Image Placeholder -->
 <p align="center">
-  <img src="[Put_Your_Image_Name_Here.png](https://github.com/Abdelfattah011/University_Network_Project/blob/5c090147e86819a73583f16ffcc81386d4cd0626/Project%20files/University_Network.png)" alt="University Network Topology" width="100%">
+  <img src="University_Network.png" alt="University Network Topology" width="100%">
 </p>
 
 ## 📌 Project Overview
