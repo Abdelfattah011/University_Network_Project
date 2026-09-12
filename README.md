@@ -46,6 +46,27 @@ Configured end-to-end routing to ensure efficient traffic isolation, broadcast d
 
 1. **Clone the repository:**
    ```bash
+   git clone [https://github.com/Abdelfattah011/University_Network_Project.git
+   ```
+
+2. **Open Cisco Packet Tracer: Ensure you have a compatible version installed.**
+
+3. **Load the Topology: Open the .pkt (Packet Tracer) file included in this repository.**
+
+4. **Network Convergence: Allow a few moments for the switch ports to transition to a forwarding state (green indicators).**
+
+5. Testing:
+   - Open the Command Prompt on various end devices (PCs).
+   - Verify dynamic IP allocation (ipconfig).
+   - Ping across different VLANs to test routing.
+   - Attempt to ping restricted departments to verify ACL security blocks.
+
+👨‍💻 Developed by: Abdelfattah Ahmed Abdelfattah
+
+
+
+
+
   
 
    1. **Clone the repository:**
