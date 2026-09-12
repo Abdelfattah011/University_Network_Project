@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Security-ACLs-red?style=for-the-badge" alt="Security">
 </p>
 
-<!-- Project Topology Image Placeholder -->
+<!-- Project Topology Image -->
 <p align="center">
   <img src="University_Network.png" alt="University Network Topology" width="100%">
 </p>
@@ -46,9 +46,8 @@ Configured end-to-end routing to ensure efficient traffic isolation, broadcast d
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Abdelfattah011/University_Network_Project.git
+   git clone https://github.com/Abdelfattah011/University_Network_Project.git
    ```
-
 2. **Open Cisco Packet Tracer: Ensure you have a compatible version installed.**
 
 3. **Load the Topology: Open the .pkt (Packet Tracer) file included in this repository.**
